@@ -1,0 +1,32 @@
+		body {
+			
+			margin: 0;
+		}
+		#stickingMenu{
+			top : 0px;
+			position : fixed;
+			background-color: grey;
+			width: 100%;
+		}
+		
+		#washer {
+			background-color : grey;
+			height: 50px;
+			margin : 0px auto;
+			margin-top: 10px;
+			text-align: center;
+		}
+		
+		#washer span {
+			font-size: 17pt;
+			padding-left: 25px;
+		}
+		
+		#washer span {
+			color : #fff;
+		}
+		
+		table {
+			border-collapse : collapse;
+		}
+
